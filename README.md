@@ -1,6 +1,8 @@
 # Total Panic
 
+Total Panic é um aplicativo mobile desenvolvido para garantir uma rede de segurança para motoristas.
 
+...
 
 ## Getting started
 
