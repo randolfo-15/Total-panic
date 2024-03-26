@@ -17,3 +17,7 @@ PROPOSTA E PROPÓSITOS DO PROJETO
 
 - O texto deve ser escrito em linguagem formal, na terceira pessoa.
 </div>
+
+
+# Propostas e projetos
+
