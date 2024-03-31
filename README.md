@@ -2,6 +2,8 @@
 
 ![sos](image/sos.png)
 
+# Objetivo
+
 Total Panic é um aplicativo mobile desenvolvido para garantir uma rede de segurança para motoristas, ele conta com uma interface simples e intuitiva
 na qual o usuário pode cadastrar contatos para momentos de crise, como assaltos e sequestro, com um simples click, ele aciona todos os membros cadastrados
 com uma mensagem de texto informando sua localização e horário continuamente de modo discreto, ou seja sem causar alterações em seu aparelho local.
