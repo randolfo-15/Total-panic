@@ -1,8 +1,11 @@
 # Total Panic
-
+![sos](image/sos.png)
 Total Panic é um aplicativo mobile desenvolvido para garantir uma rede de segurança para motoristas, ele conta com uma interface simples e intuitiva
-na qual 
+na qual o usuário pode cadastrar contatos para momentos de crise, como assaltos e sequestro, com um simples click, ele aciona todos os membros cadastrados
+com uma mensagem de texto informando sua localização e horário continuamente de modo discreto, ou seja sem causar alterações em seu aparelho local.
 
+Além disto disponibilizamos um modulo desenvolvido no arduino de botão físico, que simula o mesmo comportamento da aplicação digital. 
+![interface](image/interface.jpg)
 
 When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
