@@ -22,21 +22,15 @@ A instalação pode ser feita pela [Play Story](), ou [F Droid]()
 
 1. Inicialmente cadastre em nosso app uma rede de contatos confiáveis:
 
-``` 
 ![cadastro](image/cadastro.jpeg);
-```
 
 2. Caso esteja em perigo acione nosso botão: 
 
-```
 ![button](image/butoon.png)
-```
 
 3. Ou Aparte nosso widget de emergência: 
 
-```
 ![Alert](image/alert.png)
-```
 
 
 
