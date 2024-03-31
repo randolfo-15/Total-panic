@@ -1,4 +1,4 @@
-# Total Panic
+# Total Panic ⚠️
 ![sos](image/sos.png)
 Total Panic é um aplicativo mobile desenvolvido para garantir uma rede de segurança para motoristas, ele conta com uma interface simples e intuitiva
 na qual o usuário pode cadastrar contatos para momentos de crise, como assaltos e sequestro, com um simples click, ele aciona todos os membros cadastrados
