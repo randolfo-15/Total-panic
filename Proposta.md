@@ -1,23 +1,5 @@
-PROPOSTA E PROPÓSITOS DO PROJETO
-================================
-<div style="border-style: solid;">
+# Proposta
 
-- O conteúdo do texto deve ser coerente com o tema da UPX em curso.
+Seja no ônibus, indo para o trabalho, voltando para casa, entre várias outras possibilidades, infelizmente, todos os dias pessoas sofrem abusos, tentativas de assalto, se sentem perseguidas por outras, entre outros casos de terror. Esse é um problema em nossa sociedade muito complicado de resolver, por serem muitos casos isolados e ocultos em sua grande maioria, já que muitas vezes a vítima tem medo de procurar ajuda ou então acaba se ferindo gravemente e não consegue ir atrás de quem possa defendê-la ou auxiliá-la.
 
-- Este item deve ser objetivo, com no máximo 2 parágrafos pequenos. 
-  Como sugestão,use o primeiro para falar da proposta e o segundo, 
-  para os propósitos.
-
-- Na proposta, o leitor deve ser situado sobre um problema e/ou uma 
-  necessidade (hipotético ou real) identificado pela equipe e o que 
-  se pretende produzir para resolver ou mitigar tal problema.
-
-- Os propósitos são os motivos pelos quais aquele problema deve ser 
-  resolvido e como o “produto” proposto pode ser relevante. 
-
-- O texto deve ser escrito em linguagem formal, na terceira pessoa.
-</div>
-
-
-# Propostas e projetos
-
+Para ajudar a combater esses casos, foi pensado um botão do pânico, podendo ser ele móvel (pelo celular) ou então fixo (botão físico), onde a pessoa que está em apuros no momento o pressiona e acaba enviando um pedido de socorro, com seus dados de localização, para uma pessoa próxima de grande confiança, podendo essa ir atrás por conta própria ou até então chamar a polícia por ser um caso de emergência.
