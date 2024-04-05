@@ -1,19 +1,21 @@
-Objetivos
-=========
-<div style="border-style: solid;">
+# Objetivos
 
-- Divida este item em Objetivo Geral (2.1) e Objetivos do Produto (2.2).
+## (2.1) Objetivo Geral:
+Criar um botão de pânico para motoristas de aplicativos pedir ajuda em segredo.
 
-- O objetivo Geral deve informar o produto que a equipe vai entregar no fim do semestre. 
-O produto pode ser um site, um protótipo, uma maquete (física ou virtual), um aplicativo 
-etc.; algo que seja palpável para ser desenvolvido e apresentado. Não deve se situar 
-no campo das ideias, mas ser um entregável factível.
+## (2.2) Objetivos do Produto: 
 
-- O Objetivo Geral deve ser escrito em uma única frase, curta, iniciando-se com verbo no 
-infinitivo, expressando a ação que será realizada. (Ex: Construir um protótipo físico com 
-materiais reciclados para conversão de energia eólica em elétrica).
+	Devido ao desaparecimento de muitos motoristas de aplicativo e até morte por causa do risco que corre em transportar pessoas desconhecidas. Criou- se um botão de pânico para pedir ajuda na hora dos intemperes. Para tentar salvar a vida do condutor.
+	Quando se sentir ameaçado, em perigo de morte ou sequestro o motorista apertará o botão de pânico escondido em um local estratégico do carro. Ao apertar esse botão o motorista acionará um alarme para uma central de atendimentos que comunicará automaticamente com as autoridades competentes.
 
-- Em Objetivos do Produto apresente o produto que está sendo desenvolvido. Descreva 
-brevemente suas características, detalhes e funcionalidades, o suficiente para o leitor 
-entender as possibilidades do produto e saber “o que ele faz”.
-</div>
+### (2.2.1) Características:
+
+-	Nome Aparelho Rastreador GPS Veicular Tracker Accurate GT06 (caixa feia)
+-	Alarme anti - roubo
+-	Alarme SOS
+-	Alarme anti sequestro
+-	Rastreador GPS usa CHIP para achar local
+-	Aparelho Tracker usa energia com bateria durante tempo
+-	Aperta botão de pânico para chamado emergência ou usa smartphones no aplicativo para ativar emergência.
+-	Instalar aparelho do Tacker rápido dentro carro 
+  
